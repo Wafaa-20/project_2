@@ -48,6 +48,16 @@ tr:nth-child(even) {
     background-color: rgb(36, 176, 231);
     width: 200px;
     height: 200px;
+    color: azure;
     border-radius: 8px;
+    display: flex;
+    align-items: center;
+    text-align: center;
     
+ }
+
+ .n2>img{
+    margin-top: 20px;
+    border-radius: 80%;
+    display: flex;
  }
