@@ -60,4 +60,5 @@ tr:nth-child(even) {
     margin-top: 20px;
     border-radius: 80%;
     display: flex;
+    justify-content: center;
  }
